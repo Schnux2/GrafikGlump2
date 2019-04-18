@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=p1\ p2
+comment0.target=Line(Point,\ Point)
+comment1.params=p1\ p2\ color
+comment1.target=Line(Point,\ Point,\ int)
+comment2.params=
+comment2.target=Line\ copy()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ getColor()
+comment5.params=c
+comment5.target=void\ setColor(int)
+comment6.params=
+comment6.target=Point[]\ getRelevantPoints()
+comment7.params=relps
+comment7.target=void\ setRelevantPoints(Point[])
+comment8.params=psUV\ writeTo\ pixelU\ pixelV
+comment8.target=int\ raster(Point[],\ PixelArray,\ int,\ int)
+numComments=9

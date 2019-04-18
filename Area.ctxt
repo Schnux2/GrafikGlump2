@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=objs\ c\ hasShadow\ lamps
+comment0.target=Area(GraphicObject[],\ Camera,\ boolean,\ Lamp[])
+comment1.params=objs\ c\ hasShadow\ lamps
+comment1.target=Area(java.util.ArrayList,\ Camera,\ boolean,\ java.util.ArrayList)
+comment2.params=objs\ c
+comment2.target=Area(GraphicObject[],\ Camera)
+comment3.params=objs\ c
+comment3.target=Area(java.util.ArrayList,\ Camera)
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+numComments=5

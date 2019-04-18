@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=ps
+comment0.target=PXPolygon(Point[])
+comment1.params=ps\ texture
+comment1.target=PXPolygon(Point[],\ java.awt.image.BufferedImage)
+comment2.params=
+comment2.target=int\ getColor()
+comment3.params=
+comment3.target=void\ setColor()
+comment4.params=
+comment4.target=PXPolygon\ copy()
+comment5.params=psUV\ writeTo\ pixelU\ pixelV
+comment5.target=int\ raster(Point[],\ PixelArray,\ int,\ int)
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=colors\ depths\ pxpOrigins
+comment0.target=PixelArray(int[][],\ float[][],\ PXUPolygon[][])
+comment1.params=width\ height
+comment1.target=PixelArray(int,\ int)
+numComments=2

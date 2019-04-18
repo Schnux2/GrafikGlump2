@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GraphicObject\ copy()
+comment1.params=
+comment1.target=int\ getColor()
+comment2.params=color
+comment2.target=void\ setColor(int)
+comment3.params=
+comment3.target=Point[]\ getRelevantPoints()
+comment4.params=relps
+comment4.target=void\ setRelevantPoints(Point[])
+comment5.params=psUV\ writeTo\ pixelU\ pixelV
+comment5.target=int\ raster(Point[],\ PixelArray,\ int,\ int)
+comment5.text=\r\n\ This\ should\ actually\ be\ static,\ but\ this\ is\ not\ possible\ with\ an\ interface.\r\n\ This\ expects\ their\ own\ relevant\ points\ projected\ to\ a\ canvas\ (the\ other\ parameters\ come\ from\ a\ camera)\r\n\ The\ returned\ value\ is\ the\ number\ of\ writes\ to\ writeTo,\ for\ performance\ calculations\r\n
+numComments=6
